@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     // MARK: - FUNCTIONS
     
     func setupViews(){
-        view.backgroundColor = .yellow
+        view.backgroundColor = .blue
     }
     
     func setupConstraints(){
